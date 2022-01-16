@@ -14,3 +14,7 @@ Speed up your Mail experience by using keyboard shortcuts.
 | Search        | <kbd>Ctrl</kbd> + <kbd>F</kbd>     |
 | Send          | <kbd>Ctrl</kbd> + <kbd>↵</kbd> |
 | Refresh       | <kbd>R</kbd>                       |
+
+## Connecting to gmail
+
+Before filling in the in-app form familiarize yourself with how to enable IMAP, SMTP and App Passwords in your Google account.
